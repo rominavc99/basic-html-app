@@ -1,2 +1,12 @@
-alert('dude js is working');
-btn.addEventListener('click',() => {alert('jeje')});
+
+
+const buttons = document.querySelectorAll('button1');
+
+const playnote = ()=>{
+    
+    console.log(event.target);
+}
+
+buttons.forEach(
+    button1 => button1.addEventListener('click', playnote)
+);
