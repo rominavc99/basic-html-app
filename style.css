@@ -1,23 +1,22 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: antiquewhite;
+    background-color: #ffc;
     text-align: center;
-    line-height: 50vh;
+    line-height: 100vh;
     margin: 0;
-
-
 }
 
 button{
-    background: grey;
-    height: 500px;
-    width: 200px;
-    font-size: 40px;
-    vertical-align: middle;
-    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    vertical-align: middle;
+    width: 80px;
+    height: 400px;
+    background-color: #fff;
+    color: #000000;
 }
 
-button.button1{
-    background: black;
+button.sharp{
+    width: 50px;
+    background-color: #000000;
+    color: #fff;
 }
