@@ -1,8 +1,9 @@
 body{
-    background-color: #ffc;
+    background-color: rgb(136, 155, 236);
     text-align: center;
     line-height: 100vh;
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 button{
